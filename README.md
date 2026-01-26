@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/BYTRONIX%20LOGO.PNG?raw=true" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/BYTRONIX%20LOGO.PNG?raw=true" width="60%" />
 </p>
 
 # BYTRONIX eCommerce
