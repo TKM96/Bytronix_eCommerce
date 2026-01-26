@@ -44,12 +44,14 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LIN
 * **Q1 to Q2** show a steady decline in sales.
 * **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
    time lows.
-
- 
+----------------------
+## Orders per time of the day
+------------------------------
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="45%" />
-  <img src="" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="45%" />
 </p>
+
 ### Insights and key trends
 
 * Clear peak demand windows: Orders ramp up     from early morning, peaking   around midday **(~12:00, ~12K orders)** and again in the early evening **(~19:00, ~12.4K orders)**.
