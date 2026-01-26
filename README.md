@@ -85,8 +85,25 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 * **Reduce revenue concentration risk** by identifying  adjecent high-margin products that can diversify top-line performance.
 
 ## Basket Analysis
+-------------------
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.png?raw=true
 
+### Insights
 
+* Strong accessory attach rates: Smartphones are most frequently purchased with charging cables **(Lightning–iPhone: 1,011; Google Phone–USB-C: 997)**, confirming cables as high-velocity add-ons.
+* Audio as a common companion: Wired and wireless headphones frequently bundle with phones **(e.g., iPhone–Wired Headphones: 462; Google Phone–Wired Headphones: 422)**, indicating strong cross-sell potential.
+* Ecosystem-driven buying: Apple products show consistent bundling (iPhone with Lightning cables and AirPods), reflecting brand ecosystem loyalty.
+* Low-cost impulse add-ons: Batteries (AA/AAA) regularly appear with cables and headphones, suggesting last-minute basket expansion at checkout.
+
+### Recommendations
+
+* **Bundle strategically**: Create phone + cable + headphone bundles (with small discounts) to increase AOV and reduce purchase friction.
+* **Optimise checkout cross-sells**: Surface cables and headphones prominently when a phone is added to cart; promote batteries as impulse add-ons.
+* **Inventory prioritisation**: Ensure high availability of top-paired accessories to avoid lost cross-sell revenue.
+* **Targeted promotions**: Use ecosystem-based offers (e.g., Apple or Android bundles) to capitalize on brand-aligned purchasing behaviour.
+
+## Geographic performance
+--------------------------
 
 
 
