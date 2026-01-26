@@ -154,6 +154,10 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=t
 * **Test targeted cross-sell offers in mid-tier cities** (Seattle, Dallas, Portland) to push AOV above the 195 threshold.
 * **Introduce incentives like free shipping thresholds or bundle discounts** in Austin and Los Angeles to encourage larger basket sizes.
 * **Segment city-level marketing strategies**, using AOV as a key metric to tailor promotions rather than applying a one-size-fits-all approach.
+-----------------------
+
+## Customer frequency
+----------------------
 
 
 
