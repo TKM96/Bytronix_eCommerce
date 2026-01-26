@@ -60,6 +60,15 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 * **Drive off-peak demand**: Introduce targeted discounts or bundles during early morning and late-night hours to smooth demand and improve utilization.
 * **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
 
+-------------
+
+## Product performance
+-----------------------
+<p align="center">
+  <img src="image1.png" width="45%" />
+  <img src="image2.png" width="45%" />
+</p>
+
 
 
 
