@@ -104,6 +104,22 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.
 
 ## Geographic performance
 --------------------------
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20CITY.png?raw=true
+
+### Insights
+
+* **San Francisco** is the clear revenue leader at approximately **$8.2M**, significantly outperforming all other cities and acting as the primary revenue driver.
+* **Los Angeles and New York City form a strong second tier**, contributing solid but noticeably lower revenue than San Francisco.
+* **Mid-tier cities (Boston, Atlanta, Dallas, Seattle, Portland)** show relatively similar performance, indicating stable but non-differentiated demand.
+* **Austin is the lowest-performing market** at around **$1.8M**, suggesting limited scale or market penetration.
+
+### Recommendations
+
+* **Double down on San Francisco** by protecting market share through retention initiatives, premium offerings, and targeted upsell strategies.
+* **Accelerate growth in Los Angeles and New York City** with focused marketing spend and localized promotions to close the gap with San Francisco.
+* **Optimize mid-tier cities** by testing scalable campaigns and operational efficiencies to lift performance without heavy investment.
+* **Reassess the Austin strategy**: either invest selectively to stimulate growth or rationalize spend if ROI remains low.
+
 
 
 
