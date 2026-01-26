@@ -60,6 +60,8 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 * **Drive off-peak demand**: Introduce targeted discounts or bundles during early morning and late-night hours to smooth demand and improve utilization.
 * **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
 
+## Average Order Value(AOV) per month
+
 -------------
 
 ## Product performance
@@ -120,6 +122,22 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20CITY.png?ra
 * **Optimize mid-tier cities** by testing scalable campaigns and operational efficiencies to lift performance without heavy investment.
 * **Reassess the Austin strategy**: either invest selectively to stimulate growth or rationalize spend if ROI remains low.
 
+## Average Order Value(AOV) per city
+-------------------------------------
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=true
+
+### Insights
+
+* Seattle, Dallas, and Portland form a **solid mid-tier**, with AOVs clustered around **193–194**, suggesting consistent but slightly lower basket sizes.
+* San Francisco and Boston show **moderate AOVs (~192)**, potentially impacted by higher competition or more price-sensitive purchasing behavior.
+* **Austin and Los Angeles have the **lowest AOVs (~191)**, signaling smaller basket sizes despite being large, high-traffic markets.
+
+### Recommendations
+
+* **Prioritize premium product bundles and upsell strategies** in Atlanta and NYC to maximize revenue from already high-value customers.
+* **Test targeted cross-sell offers in mid-tier cities** (Seattle, Dallas, Portland) to push AOV above the 195 threshold.
+* **Introduce incentives like free shipping thresholds or bundle discounts** in Austin and Los Angeles to encourage larger basket sizes.
+* **Segment city-level marketing strategies**, using AOV as a key metric to tailor promotions rather than applying a one-size-fits-all approach.
 
 
 
