@@ -14,8 +14,12 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 
 ## Time-based sales trends
 ---------------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?raw=true
-### Insights and key trends
+### Revenue per month
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?raw=true" width="55%" />
+</p>
+
+#### Insights and key trends
 
 * Average monthly sales for 2025 are **$2.87M**, serving as a clear benchmark across the year.
 * Sales show strong seasonality, with underperformance in early and mid-year, followed by a pronounced surge in **Q4**.
@@ -24,7 +28,7 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?r
 * **Q3** (Jul–Sep): Mid-year slowdown. Sales remain consistently below average, pointing to a seasonal lull common in electronics retail, possibly due to fewer product launches and lower discretionary spend.
 * **Q4** (Oct–Dec): Peak performance. October marks a strong rebound, with December peaking at $4.6M, the highest month of the year. This confirms heavy reliance on holiday sales, promotions, and year-end consumer demand.
 
-### Recommendations
+#### Recommendations
 
 * **Strengthen Non-Q4 Demand**
 * **Introduce Q1 and Q3 targeted campaigns** (e.g., back-to-school tech, mid-year upgrades, bundle deals).
@@ -37,9 +41,13 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?r
 * **Reduce carrying costs during slower months** by using demand forecasting and just-in-time restocking. 
 * **Use Q4 customer acquisition** to fuel loyalty programs and remarketing in **Q1**.
 * **Segment customers** by purchase behavior to personalize offers during off-peak periods.
+-----------
+### Month Over Month % (MoM%)
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LINE.png?raw=true" width="55%" />
+</p>
 
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LINE.png?raw=true
-### Insights
+#### Insights
 
 * The year delivered significant month-on-month growth, with the sharpest spike in **Q4**, October **(+78%)** and strong uplift again in December **(+44%)**.
 * However, there were notable dips in June **(-18%)** and August **(-15%)**, 
@@ -48,38 +56,41 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LIN
 * **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
    time lows.
 ----------------------
-## Orders per time of the day
+### Orders per time of the day
 ------------------------------
 <p align="center">
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="45%" />
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="50%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="50%" />
 </p>
 
-### Insights and key trends
+#### Insights and key trends
 
 * Clear peak demand windows: Orders ramp up     from early morning, peaking   around midday **(~12:00, ~12K orders)** and again in the early evening **(~19:00, ~12.4K orders)**.
 * Lowest activity overnight: Very low order volume between **02:00–05:00**, indicating minimal customer engagement during these hours.
 * Sustained afternoon performance: Post-midday volumes remain relatively strong through **14:00–17:00**, suggesting consistent demand beyond lunch hours.
 * Evening outperforms midday: The highest spike occurs in the evening, signaling strong after-work or leisure purchasing behavior.
 
-### Recommendations
+#### Recommendations
 
 * **Align staffing & operations**: Increase fulfillment, customer support, and delivery capacity during **11:00–14:00 and 18:00–20:00** to avoid bottlenecks.
 * **Optimize marketing timing**: Schedule promotions, push notifications, and email campaigns just before peak hours to maximize conversion.
 * **Drive off-peak demand**: Introduce targeted discounts or bundles during early morning and late-night hours to smooth demand and improve utilization.
 * **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
 
-## Average Order Value(AOV) per month
---------------------------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=true
-### Insights
+### Average Order Value(AOV) per month
+---------------------------------------
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=true" width="55%" />
+</p>
+
+#### Insights
 
 * AOV peaks mid-year, reaching its highest point in May **(~199)**, indicating stronger basket sizes likely driven by promotions, product launches, or seasonal demand.
 * A noticeable decline occurs from June to September, with September recording the lowest AOV **(~187)**, suggesting increased price sensitivity, heavier discounting, or a shift toward lower-priced products.
 * AOV recovers in **Q4 (October–December)**, reflecting improved purchasing behavior ahead of year-end, though it does not fully return to the mid-year peak.
 * Overall, AOV shows clear seasonality, with stronger performance in **late Q2 and early Q4**.
 
-### Recommendations
+#### Recommendations
 
 * **Replicate successful mid-year strategies** (bundles, premium product focus, financing offers) from May to other periods to lift AOV.
 * **Introduce targeted upsell and cross-sell tactics** during low-AOV months (July–September) to counteract smaller basket sizes.
@@ -90,19 +101,20 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=
 
 ## Product performance
 -----------------------
+### Total revenue per product and total units per month by product
 <p align="center">
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="45%" />
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/UNITS%20SOLD%20BY%20MONTH%20AND%20PRODUCT.png?raw=true" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="50%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/UNITS%20SOLD%20BY%20MONTH%20AND%20PRODUCT.png?raw=true" width="50%" />
 </p>
 
-### Insights
+#### Insights
 
 * Revenue is highly concentrated in premium electronics, with **MacBook Pro Laptop ($8M)** significantly outperforming all other products, indicating a strong reliance on high-ticket items for total revenue.
 * **Smartphones and laptops dominate the top tier**, with iPhone, Thinkpad Laptop, and the google phone forming a strong secondary revenue cluster. 
 * **Accessories and consumables (cables, headphones, batteries) generate low individual revenue**, suggesting they'revolume-driven but not primary revenue drivers . 
 * **Large appliances and monitors contribute moderate revenue**, indicating steady but less scalable demand compared to personal electronics.
 
-### Recommendations
+#### Recommendations
 
 * **Double down on high-perfoming premium products** by prioritizing inventory availability, targeted promotions, and upsell/bundling strategies.
 * **Use low-revenue accessories as attach-rate drivers**, bundling them with high-value products to increase overall order value.
@@ -112,16 +124,18 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=
 
 ## Basket Analysis
 -------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.png?raw=true
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.png?raw=true" width="55%" />
+</p>
 
-### Insights
+#### Insights
 
 * Strong accessory attach rates: Smartphones are most frequently purchased with charging cables **(Lightning–iPhone: 1,011; Google Phone–USB-C: 997)**, confirming cables as high-velocity add-ons.
 * Audio as a common companion: Wired and wireless headphones frequently bundle with phones **(e.g., iPhone–Wired Headphones: 462; Google Phone–Wired Headphones: 422)**, indicating strong cross-sell potential.
 * Ecosystem-driven buying: Apple products show consistent bundling (iPhone with Lightning cables and AirPods), reflecting brand ecosystem loyalty.
 * Low-cost impulse add-ons: Batteries (AA/AAA) regularly appear with cables and headphones, suggesting last-minute basket expansion at checkout.
 
-### Recommendations
+#### Recommendations
 
 * **Bundle strategically**: Create phone + cable + headphone bundles (with small discounts) to increase AOV and reduce purchase friction.
 * **Optimise checkout cross-sells**: Surface cables and headphones prominently when a phone is added to cart; promote batteries as impulse add-ons.
@@ -130,33 +144,37 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.
 
 ## Geographic performance
 --------------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20CITY.png?raw=true
+### Revenue by city
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20CITY.png?raw=true" width="55%" />
+</p>
 
-### Insights
+#### Insights
 
 * **San Francisco** is the clear revenue leader at approximately **$8.2M**, significantly outperforming all other cities and acting as the primary revenue driver.
 * **Los Angeles and New York City form a strong second tier**, contributing solid but noticeably lower revenue than San Francisco.
 * **Mid-tier cities (Boston, Atlanta, Dallas, Seattle, Portland)** show relatively similar performance, indicating stable but non-differentiated demand.
 * **Austin is the lowest-performing market** at around **$1.8M**, suggesting limited scale or market penetration.
 
-### Recommendations
+#### Recommendations
 
 * **Double down on San Francisco** by protecting market share through retention initiatives, premium offerings, and targeted upsell strategies.
 * **Accelerate growth in Los Angeles and New York City** with focused marketing spend and localized promotions to close the gap with San Francisco.
 * **Optimize mid-tier cities** by testing scalable campaigns and operational efficiencies to lift performance without heavy investment.
 * **Reassess the Austin strategy**: either invest selectively to stimulate growth or rationalize spend if ROI remains low.
 
-## Average Order Value(AOV) per city
--------------------------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=true
+### Average Order Value(AOV) per city
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=true" width="55%" />
+</p>
 
-### Insights
+#### Insights
 
 * Seattle, Dallas, and Portland form a **solid mid-tier**, with AOVs clustered around **193–194**, suggesting consistent but slightly lower basket sizes.
 * San Francisco and Boston show **moderate AOVs (~192)**, potentially impacted by higher competition or more price-sensitive purchasing behavior.
 * **Austin and Los Angeles have the **lowest AOVs (~191)**, signaling smaller basket sizes despite being large, high-traffic markets.
 
-### Recommendations
+#### Recommendations
 
 * **Prioritize premium product bundles and upsell strategies** in Atlanta and NYC to maximize revenue from already high-value customers.
 * **Test targeted cross-sell offers in mid-tier cities** (Seattle, Dallas, Portland) to push AOV above the 195 threshold.
@@ -166,16 +184,18 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=t
 
 ## Customer frequency
 -----------------------
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/CUSTOMER%20FREQUENCY%20IN%20MONTHS.png?raw=true
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/CUSTOMER%20FREQUENCY%20IN%20MONTHS.png?raw=true" width="55%" />
+</p>
 
-### Insights
+#### Insights
 
 * The customer base is heavily skewed toward low repeat behavior: the vast **majority of customers** placed orders in only **1–2 different months**.
 * **One-month purchasers dominate** the dataset, indicating a large cohort of one-time or short-term buyers.
 * There is a **sharp drop-off after 3 months**, with very few customers ordering across 5+ months, and only **a handful reaching 7–9 months, representing a small but highly loyal segment**.
 * This distribution highlights a strong acquisition engine but weak long-term retention.
 
-### Recommendations
+#### Recommendations
 
 * **Prioritize retention initiatives for 1–2 month customers**, such as post-purchase email journeys, loyalty points, and personalized product recommendations to encourage a second and third purchase.
 * **Identify and analyze high-frequency customers (5+ months)** to understand product mix, pricing, and channels driving loyalty, then replicate these patterns at scale.
