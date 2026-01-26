@@ -16,7 +16,7 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?r
 
 * Average monthly sales for 2025 are **$2.87M**, serving as a clear benchmark across the year.
 * Sales show strong seasonality, with underperformance in early and mid-year, followed by a pronounced surge in **Q4**.
-* **Q1** (Jan–Mar): Soft start. January records the lowest sales at **$1.8M**, with gradual improvement through March, but still largely below the annual average. This suggests post-holiday demand fatigue and cautious consumer spending early in the year.
+* **Q1** (Jan–Mar): Soft start. January records the lowest sales at **$1.8M**, with gradual improvement through March, but still largely below the annual average. This suggests   post-holiday demand fatigue and cautious consumer spending early in the year.
 * **Q2** (Apr–Jun): Short-lived momentum. April and May exceed the annual average, indicating successful promotions or product demand. However, momentum drops again in June, signaling inconsistency in sustaining growth.
 * **Q3** (Jul–Sep): Mid-year slowdown. Sales remain consistently below average, pointing to a seasonal lull common in electronics retail, possibly due to fewer product launches and lower discretionary spend.
 * **Q4** (Oct–Dec): Peak performance. October marks a strong rebound, with December peaking at $4.6M, the highest month of the year. This confirms heavy reliance on holiday sales, promotions, and year-end consumer demand.
@@ -35,5 +35,14 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?r
 * Use **Q4 customer acquisition** to fuel loyalty programs and remarketing in **Q1**.
 * Segment customers by purchase behavior to personalize offers during off-peak periods.
 
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LINE.png?raw=true
+### Insights
+
+* The year delivered significant month-on-month growth, with the sharpest spike in **Q4**, October **(+78%)** and strong uplift again in December **(+44%)**.
+* However, there were notable dips in June **(-18%)** and August **(-15%)**, 
+   suggesting off-season weakness or campaign gaps.
+* **Q1 to Q2** show a steady decline in sales.
+* **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
+   time lows.
 
 
