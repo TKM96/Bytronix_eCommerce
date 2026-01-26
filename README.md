@@ -45,7 +45,11 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LIN
 * **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
    time lows.
 
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true          
+ 
+<p align="center">
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="45%" />
+  <img src="" width="45%" />
+</p>
 ### Insights and key trends
 
 * Clear peak demand windows: Orders ramp up     from early morning, peaking   around midday **(~12:00, ~12K orders)** and again in the early evening **(~19:00, ~12.4K orders)**.
@@ -63,7 +67,6 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 ## Average Order Value(AOV) per month
 --------------------------------------
 https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=true
-
 ### Insights
 
 * AOV peaks mid-year, reaching its highest point in May **(~199)**, indicating stronger basket sizes likely driven by promotions, product launches, or seasonal demand.
@@ -157,7 +160,23 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20CITY.png?raw=t
 -----------------------
 
 ## Customer frequency
-----------------------
+-----------------------
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/CUSTOMER%20FREQUENCY%20IN%20MONTHS.png?raw=true
+
+### Insights
+
+* The customer base is heavily skewed toward low repeat behavior: the vast **majority of customers** placed orders in only **1–2 different months**.
+* **One-month purchasers dominate** the dataset, indicating a large cohort of one-time or short-term buyers.
+* There is a **sharp drop-off after 3 months**, with very few customers ordering across 5+ months, and only **a handful reaching 7–9 months, representing a small but highly loyal segment**.
+* This distribution highlights a strong acquisition engine but weak long-term retention.
+
+### Recommendations
+
+* **Prioritize retention initiatives for 1–2 month customers**, such as post-purchase email journeys, loyalty points, and personalized product recommendations to encourage a second and third purchase.
+* **Identify and analyze high-frequency customers (5+ months)** to understand product mix, pricing, and channels driving loyalty, then replicate these patterns at scale.
+* **Introduce time-based incentives** (e.g., “order again within 30–60 days” offers) to reduce early churn.
+* **Track cohort performance monthly** to measure improvements in customer lifetime value and repeat purchase behavior.
+* Revenue growth is currently driven by volume of new customers rather than loyalty. Improving early-stage retention represents the largest upside opportunity for sustainable, long-term revenue growth.
 
 
 
