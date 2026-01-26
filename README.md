@@ -61,8 +61,24 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 * **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
 
 ## Average Order Value(AOV) per month
+--------------------------------------
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=true
 
--------------
+### Insights
+
+* AOV peaks mid-year, reaching its highest point in May **(~199)**, indicating stronger basket sizes likely driven by promotions, product launches, or seasonal demand.
+* A noticeable decline occurs from June to September, with September recording the lowest AOV **(~187)**, suggesting increased price sensitivity, heavier discounting, or a shift toward lower-priced products.
+* AOV recovers in **Q4 (October–December)**, reflecting improved purchasing behavior ahead of year-end, though it does not fully return to the mid-year peak.
+* Overall, AOV shows clear seasonality, with stronger performance in **late Q2 and early Q4**.
+
+### Recommendations
+
+* **Replicate successful mid-year strategies** (bundles, premium product focus, financing offers) from May to other periods to lift AOV.
+* **Introduce targeted upsell and cross-sell tactics** during low-AOV months (July–September) to counteract smaller basket sizes.
+* **Align promotional strategy with AOV goals**, avoiding over-discounting that drives volume at the expense of order value.
+* **Leverage Q4 momentum** by promoting higher-margin accessories and extended warranties to push AOV closer to peak levels.
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Product performance
 -----------------------
