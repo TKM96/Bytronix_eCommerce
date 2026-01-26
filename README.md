@@ -65,7 +65,7 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 ## Product performance
 -----------------------
 <p align="center">
-  <img src="image1.png" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="45%" />
   <img src="image2.png" width="45%" />
 </p>
 
