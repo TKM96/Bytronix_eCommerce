@@ -103,8 +103,8 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 -----------------------
 ### Total revenue per product and total units per month by product
 <p align="center">
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="50%" />
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/UNITS%20SOLD%20BY%20MONTH%20AND%20PRODUCT.png?raw=true" width="50%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="40%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/UNITS%20SOLD%20BY%20MONTH%20AND%20PRODUCT.png?raw=true" width="55%" />
 </p>
 
 #### Insights
