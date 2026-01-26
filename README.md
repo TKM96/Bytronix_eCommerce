@@ -12,6 +12,7 @@ The company sells **19 products** across **9 cities** in USA, generated a revenu
 
 Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Director , and the Finance and Strategy team, a comprehensive performance analysis was conducted to assess BYTRONIX’s business outcomes for the year of 2025 to improve rveneue growth and operational effeciency in 2026. While the overall sales appear strong, this analysis will provide clarity on what drives performance across products, locations, time periods and seasonality. This analysis provides actionable insights to support cross-functional stakeholders in streamlining operations, strengthening strategic decision-making, driving sustained improvements,  marketing spend, inventory planning, and pricing strategies for 2026.
 
+---------------------------
 ## Time-based sales trends
 ---------------------------
 ### Revenue per month
@@ -41,7 +42,7 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 * **Reduce carrying costs during slower months** by using demand forecasting and just-in-time restocking. 
 * **Use Q4 customer acquisition** to fuel loyalty programs and remarketing in **Q1**.
 * **Segment customers** by purchase behavior to personalize offers during off-peak periods.
------------
+
 ### Month Over Month % (MoM%)
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LINE.png?raw=true" width="55%" />
@@ -57,7 +58,6 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
    time lows.
 ----------------------
 ### Orders per time of the day
-------------------------------
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="55%" />
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="40%" />
@@ -78,7 +78,6 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 * **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
 
 ### Average Order Value(AOV) per month
----------------------------------------
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/AOV%20PER%20MONTH.png?raw=true" width="55%" />
 </p>
@@ -98,7 +97,6 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 * **Leverage Q4 momentum** by promoting higher-margin accessories and extended warranties to push AOV closer to peak levels.
 
 ------------------------------------------------------------------------------------------------------------------------------
-
 ## Product performance
 -----------------------
 ### Total revenue per product and total units per month by product
@@ -122,8 +120,7 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 * **Invest in cross-sell strategies** (e.g laptops+monitors+accessories) to leverage existing demand and grow revenue per customer.
 * **Reduce revenue concentration risk** by identifying  adjecent high-margin products that can diversify top-line performance.
 
-## Basket Analysis
--------------------
+### Basket Analysis
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/BASKET%20ANALYSIS%20TABLE.png?raw=true" width="55%" />
 </p>
@@ -141,7 +138,7 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 * **Optimise checkout cross-sells**: Surface cables and headphones prominently when a phone is added to cart; promote batteries as impulse add-ons.
 * **Inventory prioritisation**: Ensure high availability of top-paired accessories to avoid lost cross-sell revenue.
 * **Targeted promotions**: Use ecosystem-based offers (e.g., Apple or Android bundles) to capitalize on brand-aligned purchasing behaviour.
-
+--------------------------
 ## Geographic performance
 --------------------------
 ### Revenue by city
