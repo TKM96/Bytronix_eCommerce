@@ -59,8 +59,8 @@ Reporting to the Regional Sales Manager, Head of Merchandising, Marketing Direct
 ### Orders per time of the day
 ------------------------------
 <p align="center">
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="50%" />
-  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="50%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true" width="55%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/Screenshot%202026-01-17%20at%2015.12.12.png?raw=true" width="40%" />
 </p>
 
 #### Insights and key trends
