@@ -66,8 +66,27 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw
 -----------------------
 <p align="center">
   <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20PER%20PRODUCT.png?raw=true" width="45%" />
-  <img src="image2.png" width="45%" />
+  <img src="https://github.com/TKM96/Bytronix_eCommerce/blob/main/UNITS%20SOLD%20BY%20MONTH%20AND%20PRODUCT.png?raw=true" width="45%" />
 </p>
+
+### Insights
+
+* Revenue is highly concentrated in premium electronics, with **MacBook Pro Laptop ($8M)** significantly outperforming all other products, indicating a strong reliance on high-ticket items for total revenue.
+* **Smartphones and laptops dominate the top tier**, with iPhone, Thinkpad Laptop, and the google phone forming a strong secondary revenue cluster. 
+* **Accessories and consumables (cables, headphones, batteries) generate low individual revenue**, suggesting they'revolume-driven but not primary revenue drivers . 
+* **Large appliances and monitors contribute moderate revenue**, indicating steady but less scalable demand compared to personal electronics.
+
+### Recommendations
+
+* **Double down on high-perfoming premium products** by prioritizing inventory availability, targeted promotions, and upsell/bundling strategies.
+* **Use low-revenue accessories as attach-rate drivers**, bundling them with high-value products to increase overall order value.
+* **Review underperforming SKUs** to determine whether to optimise pricing, reposition marketing, or rationalise the product range.
+* **Invest in cross-sell strategies** (e.g laptops+monitors+accessories) to leverage existing demand and grow revenue per customer.
+* **Reduce revenue concentration risk** by identifying  adjecent high-margin products that can diversify top-line performance.
+
+## Basket Analysis
+
+
 
 
 
