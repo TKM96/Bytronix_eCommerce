@@ -45,4 +45,5 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LIN
 * **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
    time lows.
 
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true        
 
