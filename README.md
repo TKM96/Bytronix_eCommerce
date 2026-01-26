@@ -23,17 +23,17 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/REVENUE%20BY%20MONTH.png?r
 
 ### Recommendations
 
-* Strengthen **Non-Q4 Demand**
-* Introduce **Q1 and Q3 targeted campaigns** (e.g., back-to-school tech, mid-year upgrades, bundle deals).
-* Leverage financing options (BNPL, extended warranties) to stimulate discretionary purchases.
-* Replicate **Q4 Success Drivers**
-* Analyze **Q4 drivers** (product mix, pricing, channels, promotions) and test scaled-down versions earlier in the year.
-* Pull forward select holiday-style bundles into **May and August**.
-* Inventory & Supply Chain Optimization
-* Align inventory more closely with **Q4 demand spikes** to avoid stockouts.
-* Reduce carrying costs during slower months by using demand forecasting and just-in-time restocking. 
-* Use **Q4 customer acquisition** to fuel loyalty programs and remarketing in **Q1**.
-* Segment customers by purchase behavior to personalize offers during off-peak periods.
+* **Strengthen Non-Q4 Demand**
+* **Introduce Q1 and Q3 targeted campaigns** (e.g., back-to-school tech, mid-year upgrades, bundle deals).
+* **Leverage financing options** (BNPL, extended warranties) to stimulate discretionary purchases.
+* **Replicate Q4 Success Drivers**
+* **Analyze Q4 drivers** (product mix, pricing, channels, promotions) and test scaled-down versions earlier in the year.
+* **Pull forward select holiday-style bundles** into **May and August**.
+* **Inventory & Supply Chain Optimization**
+* **Align inventory more closely with Q4 demand spikes** to avoid stockouts.
+* **Reduce carrying costs during slower months** by using demand forecasting and just-in-time restocking. 
+* **Use Q4 customer acquisition** to fuel loyalty programs and remarketing in **Q1**.
+* **Segment customers** by purchase behavior to personalize offers during off-peak periods.
 
 https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LINE.png?raw=true
 ### Insights
@@ -45,5 +45,22 @@ https://github.com/TKM96/Bytronix_eCommerce/blob/main/MONTH%20OVER%20MONTH%20LIN
 * **Q2 to Q3** were stagnant with July showing a slight increase but sales remained at all 
    time lows.
 
-https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true        
+https://github.com/TKM96/Bytronix_eCommerce/blob/main/ORDERS%20BY%20HOUR.png?raw=true          
+### Insights and key trends
+
+* Clear peak demand windows: Orders ramp up     from early morning, peaking   around midday **(~12:00, ~12K orders)** and again in the early evening **(~19:00, ~12.4K orders)**.
+* Lowest activity overnight: Very low order volume between **02:00–05:00**, indicating minimal customer engagement during these hours.
+* Sustained afternoon performance: Post-midday volumes remain relatively strong through **14:00–17:00**, suggesting consistent demand beyond lunch hours.
+* Evening outperforms midday: The highest spike occurs in the evening, signaling strong after-work or leisure purchasing behavior.
+
+### Recommendations
+
+* **Align staffing & operations**: Increase fulfillment, customer support, and delivery capacity during **11:00–14:00 and 18:00–20:00** to avoid bottlenecks.
+* **Optimize marketing timing**: Schedule promotions, push notifications, and email campaigns just before peak hours to maximize conversion.
+* **Drive off-peak demand**: Introduce targeted discounts or bundles during early morning and late-night hours to smooth demand and improve utilization.
+* **System performance readiness**: Ensure platform stability and checkout performance are optimized for evening peak traffic, when demand is highest.
+
+
+
+
 
